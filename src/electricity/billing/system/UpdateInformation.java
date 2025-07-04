@@ -126,7 +126,7 @@ public class UpdateInformation extends JFrame implements ActionListener{
               String city=tfcity.getText();
               String state=tfstate.getText();
               String email=tfemail.getText();
-              String phone=tfemail.getText();
+              String phone=tfphone.getText();
               
               try{
                   Conn c=new Conn();
