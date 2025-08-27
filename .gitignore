@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+dist/
+target/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+nbproject/private/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
