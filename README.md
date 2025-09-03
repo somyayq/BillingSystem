@@ -14,9 +14,6 @@ A comprehensive billing management system designed to streamline invoice generat
 - **Programming Languages:**  
   - ☕ Java
   - 🎨 Swing (Java library for GUI interface)
-- **Frameworks & Libraries:**  
-  - 🐍 Django / Flask (backend)
-  - ⚛️ React / Vue.js (frontend)
 - **Database:**  
   - 🗄️ MySQL
 - **Other:**  
